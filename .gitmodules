@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CHFF"]
+	path = CHFF
+	url = https://github.com/cran/CHFF
+	shallow = true
+	registered = true
+[submodule "rTensor2"]
+	path = rTensor2
+	url = https://github.com/cran/rTensor2
+	shallow = true
+	registered = true
+[submodule "shuffleCI"]
+	path = shuffleCI
+	url = https://github.com/cran/shuffleCI
+	shallow = true
+	registered = true

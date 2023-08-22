@@ -5,6 +5,9 @@
 [submodule "CHFF"]
 	path = CHFF
 	url = https://github.com/cran/CHFF
+[submodule "LTAR"]
+	path = LTAR
+	url = https://github.com/cran/LTAR
 [submodule "rTensor2"]
 	path = rTensor2
 	url = https://github.com/cran/rTensor2

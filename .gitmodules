@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LTAR"]
-	path = LTAR
-	url = https://github.com/cran/LTAR
-[submodule "TensorTools"]
-	path = TensorTools
-	url = https://github.com/cran/TensorTools
-[submodule "rTensor2"]
-	path = rTensor2
-	url = https://github.com/cran/rTensor2
 [submodule "shuffleCI"]
 	path = shuffleCI
 	url = https://github.com/cran/shuffleCI
